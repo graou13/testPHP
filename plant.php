@@ -6,3 +6,4 @@ if ( copy($file, $newfile) ) {
 }else{
     echo "Copy failed.";
 }
+?>
